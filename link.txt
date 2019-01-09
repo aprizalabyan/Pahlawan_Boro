@@ -15,3 +15,6 @@ https://assetstore.unity.com/packages/2d/textures-materials/floors/tileable-pack
 
 texture candi 2 :
 https://assetstore.unity.com/packages/2d/textures-materials/floors/rocky-texture-pack-40697
+
+pintu :
+https://assetstore.unity.com/packages/3d/environments/dungeons/lowpoly-dungeon-modules-108997
